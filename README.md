@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @g-kannan
 - 👀 I’m interested in Data Engineering projects
-- 🌱 I’m currently learning Apache Spark, ADF, Synapse & Databricks
+- 🌱 I’m working on Tech Stack which includes Apache Spark, ADF, Synapse & Databricks
 - 💞️ I’m looking to collaborate on data engineering projects
 
 <!---
