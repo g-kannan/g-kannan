@@ -1,7 +1,7 @@
-# Data Architect Profile
+# Kannan G
 
-## About Me
-- I'm Kannan, working as a Data Architect
+## Role
+- Working as a Data Architect@Ganit
 
 ## Skills
 - Python, SQL , Pyspark
